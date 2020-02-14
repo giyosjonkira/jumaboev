@@ -1,0 +1,2 @@
+function1= lambda x: x+6
+print(function1(5))
